@@ -1,0 +1,5 @@
+/credentials/
+/runs/*/
+/reports/*/
+/**/__pycache__/
+/**/*.pyc
